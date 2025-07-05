@@ -21,7 +21,7 @@ Game sử dụng **Python + Pygame** để xây dựng logic, đồ họa, âm t
 ## 🔗 Chơi ngay
 
 👉 **Link chơi web game:**  
-🎮 [chienbinhrongthieng.online](https://chienbinhrongthieng.online/)
+🎮 [chienbinhrongthieng.online](https://chienbinhrongthieng.online)
 
 ---
 
@@ -31,8 +31,40 @@ Game sử dụng **Python + Pygame** để xây dựng logic, đồ họa, âm t
 - 🧠 **AI linh hoạt**: Né beam, biến hình đúng lúc, hồi máu, stun, phản đòn.
 - 🌀 **Biến hình đa dạng**:
   - Goku: Kaioken → SSJ1 → SSJ3
-  - Vegeta: Khi1 → khi7
-  - Broly: LSjpg" width="400">
+  - Vegeta: SSJ → khi7
+  - Broly: LSSJ → SSJ4
+  - Gohan: Beast mode thường → Max Beast
+  - Piccolo: Tỉnh thức (Awakened Form)
+- ⚡ **Chiêu thức độc quyền**: Ultimate Kamehameha, Masenko, Final Flash, Genki Dama, Beast Stun...
+- 🖼️ **Hiệu ứng hình ảnh động**: aura, glow, beam, shield, ki ball, slow motion,...
+- 🔊 **Âm thanh sống động**: Voice, skill sounds, biến hình, ultimate...
+- 🌐 **Không cần cài đặt**: Chạy trực tiếp trên trình duyệt (nhờ WebAssembly).
+
+---
+
+## 🕹️ Điều khiển
+
+| Người chơi 1              | Người chơi 2 (AI hoặc Player)   |
+|---------------------------|----------------------------------|
+| `A / D`: di chuyển        | `← / →`: di chuyển              |
+| `K`: nhảy                 | `↑`: nhảy                       |
+| `J`: đánh thường          | `Num1`: đánh thường             |
+| `U`: Skill 1 (bắn đạn)    | `Num2`: Skill 1                 |
+| `I`: Skill 2 (buff/heal)  | `Num3`: Skill 2                 |
+| `T`: Biến hình (T)        | `Num4`: Biến hình (T)           |
+| `O`: Ultimate (O)         | `Num5`: Ultimate (O)            |
+| `L`: DASH                 | `Num6`: DASH                    |
+| `S`: DEFEND               | `Num7`: DEFEND                  |
+
+> Game hỗ trợ cả chơi 1 người (đấu AI) hoặc 2 người cùng bàn phím.
+
+---
+
+## 📸 Hình ảnh minh họa
+
+<p align="center">
+  <img src="img/screenshoot1.png" width="400">
+  <img src="img/screenshoot2.png" width="400">
 </p>
 
 ---
@@ -53,7 +85,7 @@ AI được lập trình để:
 - 🐍 Python
 - 🎮 Pygame
 - 🧪 Pygbag (biên dịch Pygame thành WebAssembly)
-- 🎨 Các trình chỉnh Pixel Art (ảnh nhân vật & hiệu ứng)
+- 🎨 Trình chỉnh sửa ảnh Pixel Art (ảnh nhân vật & hiệu ứng)
 
 ---
 
@@ -78,4 +110,3 @@ Nếu bạn thấy game thú vị:
 <p align="center">
   💥 Cảm ơn bạn đã trải nghiệm Chiến Binh Rồng Thiêng 💥
 </p>
-
