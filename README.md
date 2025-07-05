@@ -31,12 +31,12 @@ Game sử dụng **Python + Pygame** để xây dựng logic, đồ họa, âm t
 - 🧠 **AI linh hoạt**: Né beam, biến hình đúng lúc, hồi máu, stun, phản đòn.
 - 🌀 **Biến hình đa dạng**:
   - Goku: Kaioken → SSJ1 → SSJ3
-  - Vegeta: SSJ → khi7
+  - Vegeta: Khi1 → khi7
   - Broly: LSSJ → SSJ4
   - Gohan: Beast mode thường → Max Beast
-  - Piccolo: Tỉnh thức (Awakened Form)
+  - Piccolo: Full power → Orange
 - ⚡ **Chiêu thức độc quyền**: Ultimate Kamehameha, Masenko, Final Flash, Genki Dama, Beast Stun...
-- 🖼️ **Hiệu ứng hình ảnh động**: aura, glow, beam, shield, ki ball, slow motion,...
+- 🖼️ **Hiệu ứng hình ảnh động**: aura, glow, beam, shield, ki ball,...
 - 🔊 **Âm thanh sống động**: Voice, skill sounds, biến hình, ultimate...
 - 🌐 **Không cần cài đặt**: Chạy trực tiếp trên trình duyệt (nhờ WebAssembly).
 
@@ -83,7 +83,7 @@ AI được lập trình để:
 - 🐍 Python
 - 🎮 Pygame
 - 🧪 Pygbag (biên dịch Pygame thành WebAssembly)
-- 🎨 Pixel Art (ảnh nhân vật & hiệu ứng tự thiết kế hoặc chỉnh sửa)
+- 🎨 Các trình chỉnh Pixel Art (ảnh nhân vật & hiệu ứng)
 
 ---
 
