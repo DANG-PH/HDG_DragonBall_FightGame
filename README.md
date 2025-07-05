@@ -63,8 +63,8 @@ Game sử dụng **Python + Pygame** để xây dựng logic, đồ họa, âm t
 ## 📸 Hình ảnh minh họa
 
 <p align="center">
-  <img src="img/screenshoot1.png" width="400">
-  <img src="img/screenshoot2.png" width="400">
+  <img src="img/screenshoot1.jpg" width="400">
+  <img src="img/screenshoot2.jpg" width="400">
 </p>
 
 ---
