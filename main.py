@@ -32,6 +32,7 @@ clock = pygame.time.Clock()
 # pygame.mixer.music.play(-1) 
 # pygame.mixer.music.set_volume(1.2)
 # Load background and icons
+# load
 bg = pygame.image.load('img/background1.png')
 bg = pygame.transform.scale(bg, (800, 400))
 icon = pygame.image.load('img/lgoku.png')   
