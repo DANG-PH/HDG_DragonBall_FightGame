@@ -37,34 +37,7 @@ Game sử dụng **Python + Pygame** để xây dựng logic, đồ họa, âm t
   - Piccolo: Tỉnh thức (Awakened Form)
 - ⚡ **Chiêu thức độc quyền**: Ultimate Kamehameha, Masenko, Final Flash, Genki Dama, Beast Stun...
 - 🖼️ **Hiệu ứng hình ảnh động**: aura, glow, beam, shield, ki ball, slow motion,...
-- 🔊 **Âm thanh sống động**: Voice, skill sounds, biến hình, ultimate...
-- 🌐 **Không cần cài đặt**: Chạy trực tiếp trên trình duyệt (nhờ WebAssembly).
-
----
-
-## 🕹️ Điều khiển
-
-| Người chơi 1                  | Người chơi 2 (AI hoặc Player)   |
-|-------------------------------|----------------------------------|
-| `A / D`: di chuyển            | `← / →`: di chuyển              |
-| `K`: nhảy                     | `↑`: nhảy                       |
-| `J`: đánh thường              | `Num1`: đánh thường             |
-| `U`: Skill 1 (bắn đạn)        | `Num2`: Skill 1                 |
-| `I`: Skill 2 (buff/heal)      | `Num3`: Skill 2                 |
-| `T`: Biến hình (T)            | `Num4`: Biến hình (T)           |
-| `O`: Ultimate (O)             | `Num5`: Ultimate (O)            |
-| `L`: DASH                     | `Num6`: DASH                    |
-| `S`: DEFEND                   | `Num7`: DEFEND                  |
-
-> Game hỗ trợ cả chơi 1 người (đấu AI) hoặc 2 người cùng bàn phím.
-
----
-
-## 📸 Hình ảnh minh họa
-
-<p align="center">
-  <img src="img/screenshoot1.jpg" width="400">
-  <img src="img/screenshoot2.jpg" width="400">
+- 🔊 **Âm thanh sống động**: Voice, skill sounds, bi250">
 </p>
 
 ---
