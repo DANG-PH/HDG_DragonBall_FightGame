@@ -21,7 +21,7 @@ Game sử dụng **Python + Pygame** để xây dựng logic, đồ họa, âm t
 ## 🔗 Chơi ngay
 
 👉 **Link chơi web game:**  
-🎮 [chienbinhrongthieng.online](chienbinhrongthieng.online)
+🎮 [chienbinhrongthieng.online](https://chienbinhrongthieng.online/)
 
 ---
 
