@@ -44,15 +44,15 @@ Game sử dụng **Python + Pygame** để xây dựng logic, đồ họa, âm t
 
 ## 🕹️ Điều khiển
 
-| Người chơi 1              | Người chơi 2 (AI hoặc Player)   |
-|---------------------------|----------------------------------|
-| `A / D`: di chuyển        | `← / →`: di chuyển              |
-| `W`: nhảy                 | `↑`: nhảy                       |
-| `J`: đánh thường          | `Num1`: đánh thường             |
-| `K`: Skill 1 (bắn đạn)    | `Num2`: Skill 1                 |
-| `L`: Skill 2 (buff/heal)  | `Num3`: Skill 2                 |
-| `U`: Biến hình (T)        | `Num4`: Biến hình (T)           |
-| `I`: Ultimate (O)         | `Num5`: Ultimate (O)            |
+| Người chơi 1                   | Người chơi 2 (AI hoặc Player)   |
+|--------------------------------|---------------------------------|
+| `A / D`: di chuyển             | `← / →`: di chuyển              |
+| `K`: nhảy                      | `↑`: nhảy                       |
+| `J`: đánh thường               | `Num1`: đánh thường             |
+| `U`: Skill 1 (bắn đạn)         | `Num2`: Skill 1                 |
+| `L`: Skill 2 (buff/heal/stun)  | `Num3`: Skill 2                 |
+| `T`: Biến hình (T)             | `Num4`: Biến hình (T)           |
+| `O`: Ultimate (O)              | `Num5`: Ultimate (O)            |
 
 > Game hỗ trợ cả chơi 1 người (đấu AI) hoặc 2 người cùng bàn phím.
 
